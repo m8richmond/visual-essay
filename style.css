@@ -55,7 +55,7 @@ div#click-to-learn{
   z-index: 50;
 }
 h2#click-to-learn-text{
-  font-family: VCR OSD Mono, sans-serif;
+  font-family: vcrmono, sans-serif;
   font-size: 1em;
   line-height: 1em;
   font-weight: normal;
@@ -76,7 +76,7 @@ div#header{
   padding: 0px 0px 0px 20px;
   background-color: white;
   border: solid 3px #0231FF;
-  font-family: VCR OSD Mono;
+  font-family: vcrmono;
   font-weight: normal;
 }
 h1#banner{
@@ -544,7 +544,7 @@ div.overlay-inner{
   padding: 5px 15px 5px 15px;
 }
 h2.overlaytext {
-  font-family: Terminal Grotesque;
+  font-family: terminal;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
@@ -594,12 +594,3 @@ div#imagemacros-inner{
   width: 50%;
 }
 
-]]
-
-
-
-
-
-
-
-]]
