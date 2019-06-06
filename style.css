@@ -1,8 +1,8 @@
 @font-face { font-family: vcrmono;
-  src:url(/font/vcrmono.ttf) format("opentype");
+  src:url(https://m8richmond.github.io/visual-essay/font/terminal-grotesque.ttf) format("opentype");
 }
 @font-face { font-family: terminal;
-  src:url(/font/terminal-grotesque.ttf) format("opentype");
+  src:url(https://m8richmond.github.io/visual-essay/font/terminal-grotesque.ttf) format("opentype");
 }
 
 #body {
