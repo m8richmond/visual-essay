@@ -1,7 +1,7 @@
-@font-face { font-family: vcrmono;
+@font-face { font-family: 'vcrmono';
   src:url('https://m8richmond.github.io/visual-essay/font/vcrmono.ttf') format('truetype');
 }
-@font-face { font-family: terminal;
+@font-face { font-family: 'terminal';
   src:url('https://m8richmond.github.io/visual-essay/font/terminal-grotesque.ttf') format('truetype');
 }
 
