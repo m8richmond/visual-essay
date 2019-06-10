@@ -1,8 +1,8 @@
 @font-face { font-family: vcrmono;
-  src:url(./font/terminal-grotesque.ttf) format("opentype");
+  src:url(font/vcrmono.ttf) format(truetype);
 }
 @font-face { font-family: terminal;
-  src:url(./font/terminal-grotesque.ttf) format("opentype");
+  src:url(font/terminal-grotesque.ttf) format(truetype);
 }
 
 #body {
@@ -580,7 +580,7 @@ div#photofads-outer{
   background-color: rgba(0,255,255,0.95);
 }
 div#photofads-inner{
-  top: 38%;
+  top: 32%;
   left: 16%;
   width: 56%;
 }
@@ -591,6 +591,7 @@ div#imagemacros-outer{
 div#imagemacros-inner{
   top: 23%;
   left: 13%;
-  width: 50%;
+  width: 55%;
 }
+
 
